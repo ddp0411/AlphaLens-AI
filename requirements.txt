@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langsmith
+openai
+pypdf
+tiktoken
+python-dotenv
+yfinance
+alpha_vantage
+faiss-cpu
+sentence-transformers
+pandas
+requests
