@@ -1,5 +1,5 @@
 
-# 🚀 AgentFinance AI – Smart Investment Research Assistant
+# 🚀 AlphaLens AI– Smart Investment Research Assistant
 
 > A GenAI-powered financial analyst that fetches real-time stock data, analyzes SEC filings, generates risk summaries, and delivers actionable investment recommendations using an autonomous multi-agent system.
 
